@@ -1,0 +1,39 @@
+_repo: Burial-Mounds-of-the-Northern-Sections-of-the-United-States_41557
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Brébeuf, Jean de, Saint
+    aliases:
+    - Brebeuf, Jean de, Saint
+    - De Brébeuf, Jean, Saint
+    birthdate: 1593
+    deathdate: 1649
+    gutenberg_agent_id: '44711'
+    url: http://www.gutenberg.org/2009/agents/44711
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, Cyrus
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '1415'
+    url: http://www.gutenberg.org/2009/agents/1415
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Thomas
+description: ''
+gutenberg_issued: '2012-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wyandot Indians'
+- !lcsh 'Mounds -- United States'
+- !lcsh 'Indians of North America -- Funeral customs and rites'
+- !lcc 'E011'
+title: Burial Mounds of the Northern Sections of the United States
+url: http://www.gutenberg.org/ebooks/41557
