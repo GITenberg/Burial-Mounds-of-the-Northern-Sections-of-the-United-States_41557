@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1415
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Thomas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41557#Burial-Mounds-of-the-Northern-Sections-of-the-United-States
 gutenberg_issued: '2012-12-04'
 gutenberg_type: Text
 identifiers:
